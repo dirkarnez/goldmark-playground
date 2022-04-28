@@ -1,4 +1,4 @@
-module github.com/dirkarnez/bookdown
+module github.com/dirkarnez/goldmark-playground
 
 go 1.17
 
